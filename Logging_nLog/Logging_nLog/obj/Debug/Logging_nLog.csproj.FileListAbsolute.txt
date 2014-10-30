@@ -1,0 +1,9 @@
+C:\Users\siddharth.kosta\Desktop\Sid\Logging_nLog\Logging_nLog\bin\Debug\Logging_nLog.exe.config
+C:\Users\siddharth.kosta\Desktop\Sid\Logging_nLog\Logging_nLog\bin\Debug\Logging_nLog.exe
+C:\Users\siddharth.kosta\Desktop\Sid\Logging_nLog\Logging_nLog\bin\Debug\Logging_nLog.pdb
+C:\Users\siddharth.kosta\Desktop\Sid\Logging_nLog\Logging_nLog\bin\Debug\NLog.dll
+C:\Users\siddharth.kosta\Desktop\Sid\Logging_nLog\Logging_nLog\bin\Debug\NLog.xml
+C:\Users\siddharth.kosta\Desktop\Sid\Logging_nLog\Logging_nLog\obj\Debug\Logging_nLog.csprojResolveAssemblyReference.cache
+C:\Users\siddharth.kosta\Desktop\Sid\Logging_nLog\Logging_nLog\obj\Debug\Logging_nLog.exe
+C:\Users\siddharth.kosta\Desktop\Sid\Logging_nLog\Logging_nLog\obj\Debug\Logging_nLog.pdb
+C:\Users\siddharth.kosta\Desktop\Sid\Logging_nLog\Logging_nLog\bin\Debug\NLog.config
